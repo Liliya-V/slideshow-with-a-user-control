@@ -44,9 +44,10 @@
   left: 0;
 }
 
+//my keyframe doesn't work (surprise surprise:D)
 @keyframes next {
   from{
-  left: -1200px;
+  left: 1200px;
 }
   to {
     left: 0;
